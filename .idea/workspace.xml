@@ -94,11 +94,11 @@
   </component>
   <component name="RunManager" selected="Application.GetMiddleCharacter">
     <configuration name="GetMiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.Getmiddlecharacter.GetMiddleCharacter" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.getmiddlecharacter.GetMiddleCharacter" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.Getmiddlecharacter.*" />
+          <option name="PATTERN" value="com.algorithm.getmiddlecharacter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
