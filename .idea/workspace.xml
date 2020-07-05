@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c180aed1-a426-4a48-a77c-1bb34092fe5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/twothousandsixteenyear/TwoThousandSixteenYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/Getmiddlecharacter/GetMiddleCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +92,20 @@
       <recent name="com.algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoThousandSixteenYear">
+  <component name="RunManager" selected="Application.GetMiddleCharacter">
+    <configuration name="GetMiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.Getmiddlecharacter.GetMiddleCharacter" />
+      <module name="java-algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.Getmiddlecharacter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GymSuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.gymsuit.GymSuit" />
       <module name="java-algorithm.main" />
@@ -112,19 +125,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.algorithm.kthnumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MockExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.mockexam.MockExam" />
-      <module name="java-algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.mockexam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetMiddleCharacter" />
         <item itemvalue="Application.TwoThousandSixteenYear" />
         <item itemvalue="Application.KthNumber" />
         <item itemvalue="Gradle.java-algorithm [classes]" />
         <item itemvalue="Application.GymSuit" />
-        <item itemvalue="Application.MockExam" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +197,8 @@
       <workItem from="1593443167282" duration="4875000" />
       <workItem from="1593614683783" duration="1044000" />
       <workItem from="1593616458476" duration="11000" />
-      <workItem from="1593828118494" duration="292000" />
+      <workItem from="1593828118494" duration="1070000" />
+      <workItem from="1593961216688" duration="373000" />
     </task>
     <servers />
   </component>
@@ -229,28 +230,28 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="485" y="329" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900@0.0.1440.900" timestamp="1593273077007" />
-    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1593615728572">
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1593961741162">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593615728572" />
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593961741162" />
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1593276215783" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1592927753824" />
-    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1593615728571">
+    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1593961741161">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593615728571" />
+    <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593961741161" />
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1593276215782" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
-    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1593615728570">
+    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1593961741161">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593615728570" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593961741161" />
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1593276215781" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
-    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1593615728572">
+    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1593961741162">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593615728572" />
+    <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593961741162" />
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1593276215782" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
     <state x="88" y="23" width="1264" height="827" key="new project wizard" timestamp="1592708161856">
