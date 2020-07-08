@@ -7,3 +7,4 @@
 - [\[프로그래머스\] 모의고사](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/mockexam)
 - [\[프로그래머스\] 2016년](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/twothousandsixteenyear)
 - [\[프로그래머스\] 가운데 글자 가져오기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/getmiddlecharacter)
+- [\[프로그래머스\] 같은 숫자는 싫어](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/nosamenumber)
