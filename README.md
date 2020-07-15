@@ -10,3 +10,4 @@
 - [\[프로그래머스\] 같은 숫자는 싫어](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/nosamenumber)
 - [\[프로그래머스\] 나누어 떨어지는 숫자 배열](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/dividingnumbersarray)
 - [\[프로그래머스\] 두 정수 사이의 합](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/twonumberbetweensum)
+- [\[프로그래머스\] 문자열 내 마음대로 정렬하기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/mysortingstring)
