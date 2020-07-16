@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c180aed1-a426-4a48-a77c-1bb34092fe5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/p_andy_number/PAndYNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/p_andy_number/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/string_sort_decs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/string_sort_decs/StringSortDesc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -95,7 +95,7 @@
       <recent name="com.algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PAndYNumber">
+  <component name="RunManager" selected="Application.StringSortDesc">
     <configuration name="DividingNumbersArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.dividingnumbersarray.DividingNumbersArray" />
       <module name="java-algorithm.main" />
@@ -122,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoSameNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.nosamenumber.NoSameNumber" />
+    <configuration name="PAndYNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.p_and_y_number.PAndYNumber" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.nosamenumber.*" />
+          <option name="PATTERN" value="com.algorithm.p_and_y_number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PAndYNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.p_andy_number.PAndYNumber" />
+    <configuration name="StringSortDesc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.string_sort_decs.StringSortDesc" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.p_andy_number.*" />
+          <option name="PATTERN" value="com.algorithm.string_sort_decs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSortDesc" />
         <item itemvalue="Application.PAndYNumber" />
         <item itemvalue="Application.MySortingString" />
         <item itemvalue="Application.TwoNumberBetweenSum" />
         <item itemvalue="Application.DividingNumbersArray" />
-        <item itemvalue="Application.NoSameNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +202,7 @@
       <workItem from="1594520495245" duration="508000" />
       <workItem from="1594654239335" duration="2821000" />
       <workItem from="1594816866955" duration="359000" />
-      <workItem from="1594905288868" duration="691000" />
+      <workItem from="1594905288868" duration="1520000" />
     </task>
     <servers />
   </component>
@@ -226,36 +226,41 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="331" y="93" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.827@0.23.1440.827" timestamp="1592708052782" />
-    <state x="238" y="376" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593273075981">
+    <state x="238" y="376" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594911069543">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="238" y="376" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911069543" />
     <state x="238" y="376" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1593273075981" />
     <state x="485" y="329" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1593273077007">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="485" y="329" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900@0.0.1440.900" timestamp="1593273077007" />
-    <state width="1398" height="298" key="GridCell.Tab.0.bottom" timestamp="1594690393783">
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1594912575746">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="298" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594690393783" />
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074448" />
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594912575746" />
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1593276215783" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1592927753824" />
-    <state width="1398" height="298" key="GridCell.Tab.0.center" timestamp="1594690393782">
+    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1594912575745">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="298" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594690393782" />
+    <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074447" />
+    <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594912575745" />
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1593276215782" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
-    <state width="1398" height="298" key="GridCell.Tab.0.left" timestamp="1594690393782">
+    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1594912575744">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="298" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594690393782" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074446" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594912575744" />
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1593276215781" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
-    <state width="1398" height="298" key="GridCell.Tab.0.right" timestamp="1594690393783">
+    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1594912575745">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="298" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594690393783" />
+    <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074447" />
+    <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594912575745" />
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1593276215782" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
     <state width="1398" height="298" key="GridCell.Tab.1.bottom" timestamp="1594690393785">
