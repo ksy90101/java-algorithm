@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c180aed1-a426-4a48-a77c-1bb34092fe5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/mysortingstring/MySortingString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/mysortingstring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/p_andy_number/PAndYNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/p_andy_number/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -95,26 +95,13 @@
       <recent name="com.algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MySortingString">
+  <component name="RunManager" selected="Application.PAndYNumber">
     <configuration name="DividingNumbersArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.dividingnumbersarray.DividingNumbersArray" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.algorithm.dividingnumbersarray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetMiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.getmiddlecharacter.GetMiddleCharacter" />
-      <module name="java-algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.getmiddlecharacter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,6 +135,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PAndYNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.p_andy_number.PAndYNumber" />
+      <module name="java-algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.p_andy_number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoNumberBetweenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.twonumberbetweensum.TwoNumberBetweenSum" />
       <module name="java-algorithm.main" />
@@ -163,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PAndYNumber" />
         <item itemvalue="Application.MySortingString" />
         <item itemvalue="Application.TwoNumberBetweenSum" />
         <item itemvalue="Application.DividingNumbersArray" />
         <item itemvalue="Application.NoSameNumber" />
-        <item itemvalue="Application.GetMiddleCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +201,8 @@
       <workItem from="1594461160604" duration="132000" />
       <workItem from="1594520495245" duration="508000" />
       <workItem from="1594654239335" duration="2821000" />
-      <workItem from="1594816866955" duration="222000" />
+      <workItem from="1594816866955" duration="359000" />
+      <workItem from="1594905288868" duration="691000" />
     </task>
     <servers />
   </component>
@@ -277,10 +278,11 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="88" y="23" width="1264" height="827" key="new project wizard/0.23.1440.827@0.23.1440.827" timestamp="1592708161856" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1594816991431">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1594905434698">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594816991431" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594905434698" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1594655126408" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
