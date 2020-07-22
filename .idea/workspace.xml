@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c180aed1-a426-4a48-a77c-1bb34092fe5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/string_sort_decs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/string_sort_decs/StringSortDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/basicstring/BasicString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/basicstring/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,19 +89,20 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringSortDesc">
-    <configuration name="DividingNumbersArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.dividingnumbersarray.DividingNumbersArray" />
+  <component name="RunManager" selected="Application.BasicString">
+    <configuration name="BasicString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.basicstring.BasicString" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.dividingnumbersarray.*" />
+          <option name="PATTERN" value="com.algorithm.basicstring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicString" />
         <item itemvalue="Application.StringSortDesc" />
         <item itemvalue="Application.PAndYNumber" />
         <item itemvalue="Application.MySortingString" />
         <item itemvalue="Application.TwoNumberBetweenSum" />
-        <item itemvalue="Application.DividingNumbersArray" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +203,9 @@
       <workItem from="1594520495245" duration="508000" />
       <workItem from="1594654239335" duration="2821000" />
       <workItem from="1594816866955" duration="359000" />
-      <workItem from="1594905288868" duration="1520000" />
+      <workItem from="1594905288868" duration="2165000" />
+      <workItem from="1595342027678" duration="776000" />
+      <workItem from="1595426719895" duration="205000" />
     </task>
     <servers />
   </component>
@@ -235,32 +238,32 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="485" y="329" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900@0.0.1440.900" timestamp="1593273077007" />
-    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1594912575746">
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1595391421639">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074448" />
-    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594912575746" />
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595391421639" />
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1593276215783" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1592927753824" />
-    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1594912575745">
+    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1595391421638">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074447" />
-    <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594912575745" />
+    <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595391421638" />
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1593276215782" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
-    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1594912575744">
+    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1595391421638">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074446" />
-    <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594912575744" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595391421638" />
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1593276215781" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
-    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1594912575745">
+    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1595391421639">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074447" />
-    <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594912575745" />
+    <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595391421639" />
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1593276215782" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
     <state width="1398" height="298" key="GridCell.Tab.1.bottom" timestamp="1594690393785">
@@ -279,16 +282,21 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="298" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1594690393785" />
-    <state x="88" y="23" width="1264" height="827" key="new project wizard" timestamp="1592708161856">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1595426922864">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1595426922864" />
+    <state x="88" y="0" width="1264" height="827" key="new project wizard" timestamp="1594950176325">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="88" y="0" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1594950176325" />
     <state x="88" y="23" width="1264" height="827" key="new project wizard/0.23.1440.827@0.23.1440.827" timestamp="1592708161856" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1594905434698">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1595426888901">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594816991431" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594905434698" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1594655126408" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1595426888901" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_algorithm$GymSuit.ic" NAME="GymSuit Coverage Results" MODIFIED="1593443732047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
