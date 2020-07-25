@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c180aed1-a426-4a48-a77c-1bb34092fe5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/find_kim_seoul/FindKimSeoul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/find_kim_seoul/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/find_prime/FindPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/find_prime/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -96,7 +96,7 @@
       <recent name="com.algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindKimSeoul">
+  <component name="RunManager" selected="Application.FindPrime">
     <configuration name="BasicString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.basic_string.BasicString" />
       <module name="java-algorithm.main" />
@@ -123,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySortingString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.mysortingstring.MySortingString" />
+    <configuration name="FindPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.find_prime.FindPrime" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.mysortingstring.*" />
+          <option name="PATTERN" value="com.algorithm.find_prime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindPrime" />
         <item itemvalue="Application.FindKimSeoul" />
         <item itemvalue="Application.BasicString" />
         <item itemvalue="Application.StringSortDesc" />
         <item itemvalue="Application.PAndYNumber" />
-        <item itemvalue="Application.MySortingString" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +205,11 @@
       <workItem from="1594816866955" duration="359000" />
       <workItem from="1594905288868" duration="2165000" />
       <workItem from="1595342027678" duration="776000" />
-      <workItem from="1595426719895" duration="1065000" />
+      <workItem from="1595426719895" duration="1114000" />
+      <workItem from="1595428028931" duration="1299000" />
+      <workItem from="1595550226190" duration="1096000" />
+      <workItem from="1595567076875" duration="854000" />
+      <workItem from="1595671134774" duration="101000" />
     </task>
     <servers />
   </component>
@@ -238,32 +242,40 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="485" y="329" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900@0.0.1440.900" timestamp="1595426965017" />
-    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1595427548841">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="722" y="92" width="334" height="886" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595671200501">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="722" y="92" width="334" height="886" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1595671200501" />
+    <state width="1638" height="288" key="GridCell.Tab.0.bottom" timestamp="1595552358572">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074448" />
-    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595427548841" />
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595427860471" />
+    <state width="1638" height="288" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1595552358572" />
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1593276215783" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1592927753824" />
-    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1595427548840">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1638" height="288" key="GridCell.Tab.0.center" timestamp="1595552358571">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074447" />
-    <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595427548840" />
+    <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595427860470" />
+    <state width="1638" height="288" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1595552358571" />
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1593276215782" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
-    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1595427548840">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1638" height="288" key="GridCell.Tab.0.left" timestamp="1595552358570">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074446" />
-    <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595427548840" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595427860469" />
+    <state width="1638" height="288" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1595552358570" />
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1593276215781" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
-    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1595427548840">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1638" height="288" key="GridCell.Tab.0.right" timestamp="1595552358571">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074447" />
-    <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595427548840" />
+    <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595427860470" />
+    <state width="1638" height="288" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1595552358571" />
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1593276215782" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
     <state width="1398" height="298" key="GridCell.Tab.1.bottom" timestamp="1594690393785">
@@ -297,6 +309,17 @@
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1280.720@0.0.1440.900" timestamp="1594816991431" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594905434698" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1595426888901" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/find_prime/FindPrime.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_algorithm$GymSuit.ic" NAME="GymSuit Coverage Results" MODIFIED="1593443732047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
