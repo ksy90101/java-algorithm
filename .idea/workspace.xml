@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c180aed1-a426-4a48-a77c-1bb34092fe5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/suback_suback/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/suback_suback/SuBack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,6 +211,7 @@
       <workItem from="1595567076875" duration="854000" />
       <workItem from="1595671134774" duration="149000" />
       <workItem from="1595673681557" duration="1212000" />
+      <workItem from="1595775225033" duration="193000" />
     </task>
     <servers />
   </component>
