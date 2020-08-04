@@ -23,10 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c180aed1-a426-4a48-a77c-1bb34092fe5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/sum_digit/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/sum_digit/SumDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/number_reverse_array/NumberReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/number_reverse_array/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/sum_digit/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/sum_digit/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +100,7 @@
       <recent name="com.algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumDigit">
+  <component name="RunManager" selected="Application.NumberReverseArray">
     <configuration name="MakeStrangeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.make_strange_string.MakeStrangeString" />
       <module name="java-algorithm.main" />
@@ -113,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.sum_digit.SumDigit" />
+    <configuration name="NumberReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.number_reverse_array.NumberReverseArray" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.sum_digit.*" />
+          <option name="PATTERN" value="com.algorithm.number_reverse_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.Test" />
+    <configuration name="SumDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.sum_digit.SumDigit" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.*" />
+          <option name="PATTERN" value="com.algorithm.sum_digit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,26 +160,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberReverseArray" />
         <item itemvalue="Application.SumDigit" />
         <item itemvalue="Application.MakeStrangeString" />
         <item itemvalue="Application.Test4" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +228,9 @@
       <workItem from="1595995227160" duration="318000" />
       <workItem from="1596258096867" duration="5938000" />
       <workItem from="1596458268565" duration="3178000" />
-      <workItem from="1596540707902" duration="396000" />
+      <workItem from="1596540707902" duration="432000" />
+      <workItem from="1596542601766" duration="4000" />
+      <workItem from="1596542957430" duration="607000" />
     </task>
     <servers />
   </component>
@@ -278,43 +279,43 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="722" y="92" width="334" height="886" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1595671200501" />
-    <state width="1638" height="287" key="GridCell.Tab.0.bottom" timestamp="1596541070358">
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom" timestamp="1596541139489">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074448" />
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595427860471" />
     <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1596462047446" />
-    <state width="1638" height="287" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1596541070358" />
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1596541139489" />
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1593276215783" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1592927753824" />
     <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1596260295830" />
-    <state width="1638" height="287" key="GridCell.Tab.0.center" timestamp="1596541070355">
+    <state width="1638" height="287" key="GridCell.Tab.0.center" timestamp="1596541139489">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074447" />
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595427860470" />
     <state width="1878" height="297" key="GridCell.Tab.0.center/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1596462047444" />
-    <state width="1638" height="287" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1596541070355" />
+    <state width="1638" height="287" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1596541139489" />
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1593276215782" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
     <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1596260295829" />
-    <state width="1638" height="287" key="GridCell.Tab.0.left" timestamp="1596541070354">
+    <state width="1638" height="287" key="GridCell.Tab.0.left" timestamp="1596541139488">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074446" />
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595427860469" />
     <state width="1878" height="297" key="GridCell.Tab.0.left/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1596462047443" />
-    <state width="1638" height="287" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1596541070354" />
+    <state width="1638" height="287" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1596541139488" />
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1593276215781" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
     <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1596260295828" />
-    <state width="1638" height="287" key="GridCell.Tab.0.right" timestamp="1596541070356">
+    <state width="1638" height="287" key="GridCell.Tab.0.right" timestamp="1596541139489">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1594911074447" />
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595427860470" />
     <state width="1878" height="297" key="GridCell.Tab.0.right/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1596462047445" />
-    <state width="1638" height="287" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1596541070356" />
+    <state width="1638" height="287" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1596541139489" />
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1593276215782" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1592927753823" />
     <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1596260295829" />

@@ -20,6 +20,8 @@ N | answer
 - 입출력 예 #2
     - 9 + 8 + 7 = 24이므로 24를 return 하면 됩니다.
     
+## 정답코드
+
 ```java
 package com.algorithm.sum_digit;
 
