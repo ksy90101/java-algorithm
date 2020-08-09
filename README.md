@@ -24,3 +24,4 @@
 - [\[프로그래머스\] 자릿수 더하기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/sum_digit)
 - [\[프로그래머스\] 자연수 뒤집어 배열로 만들기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/number_reverse_array)
 - [\[프로그래머스\] 정수 내림차순으로 배치하기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/order_number_desc)
+- [\[프로그래머스\] 정수 제곱근 판별하기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/number_square_root)
