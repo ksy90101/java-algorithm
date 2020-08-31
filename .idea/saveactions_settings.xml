@@ -9,6 +9,13 @@
         <option value="organizeImports" />
         <option value="reformat" />
         <option value="rearrange" />
+        <option value="fieldCanBeFinal" />
+        <option value="localCanBeFinal" />
+        <option value="localCanBeFinalExceptImplicit" />
+        <option value="methodMayBeStatic" />
+        <option value="unqualifiedFieldAccess" />
+        <option value="unqualifiedMethodAccess" />
+        <option value="useBlocks" />
       </set>
     </option>
     <option name="configurationPath" value="" />

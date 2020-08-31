@@ -26,3 +26,5 @@
 - [\[프로그래머스\] 정수 내림차순으로 배치하기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/order_number_desc)
 - [\[프로그래머스\] 정수 제곱근 판별하기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/number_square_root)
 - [\[프로그래머스\] 제일 작은 수 제거하기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/remove_smallest_number)
+- [\[프로그래머스\] 짝수와 홀수](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/even_and_odd)
+- [\[프로그래머스\] 키패드 누르기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/pushing_keypad)
