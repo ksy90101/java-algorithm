@@ -29,3 +29,4 @@
 - [\[프로그래머스\] 짝수와 홀수](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/even_and_odd)
 - [\[프로그래머스\] 키패드 누르기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/pushing_keypad)
 - [\[프로그래머스\] 최대공약수와 최대공배수](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/gcd_and_lcm)
+- [\[프로그래머스\] 콜라츠 추측](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/collatz_conjecture)
