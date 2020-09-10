@@ -25,8 +25,6 @@ public class GcdAndLcm {
             final int temp = n;
             n = m % n;
             m = temp;
-            System.out.println(n);
-            System.out.println(m);
         }
         return m;
     }
