@@ -22,9 +22,9 @@ Pyy | false
 - 입출력 예 #2
     - 'p'의 개수 1개, 'y'의 개수 2개로 다르므로 false를 return 합니다.
 
-```java
-package com.algorithm.p_and_y_number;
+## 정답코드
 
+```java
 public class PAndYNumber {
     boolean solution(String s) {
         String[] sArray = s.toLowerCase().split("");
