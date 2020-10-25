@@ -19,8 +19,6 @@ a | b | return
 ## 정답
 
 ```java
-package com.algorithm.twonumberbetweensum;
-
 public class TwoNumberBetweenSum {
 	public long solution(int a, int b) {
 		long answer = 0;

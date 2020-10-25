@@ -1,7 +1,0 @@
-
-U	java:S106"9Replace this use of System.out or System.err by a logger.(øˆ¶õ8Ëõª‰Ñ.
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(¿üÏ¡ıÿÿÿÿ8Ëõª‰Ñ.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(Æ÷[8Ëõª‰Ñ.
-„
-java:S4165"bRemove this useless assignment; "bulb" already holds the assigned value along all execution paths.(ÏÅôÿÿÿÿÿ8ô±Ü‰Ñ.

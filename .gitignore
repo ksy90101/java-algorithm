@@ -1,8 +1,9 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/java,macos,gradle,intelli
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,macos,gradle,intelli
 
 #!! ERROR: intelli is undefined. Use list command to see defined gitignore types !!#
+
+.idea
 
 ### Java ###
 # Compiled class file
