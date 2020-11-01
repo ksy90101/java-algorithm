@@ -14,8 +14,6 @@ n | return
 
 ## 정답코드
 ```java
-package com.algorithm.number_reverse_array;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
