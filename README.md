@@ -38,3 +38,4 @@
 - [\[프로그래머스\] 3진법 뒤집기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/three_base_flip)
 - [\[프로그래머스\] 행렬의 덧셈](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/matrix_addition)
 - [\[프로그래머스\] x만큼 간격이 있는 n개의 숫자](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/n_numbers_spaced_by_x)
+- [\[프로그래머스\] x만큼 간격이 있는 n개의 숫자](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/rectangular_star)

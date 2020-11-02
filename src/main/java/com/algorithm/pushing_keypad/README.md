@@ -1,8 +1,6 @@
 # [\[프로그래머스\] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256?language=java)
 
 ## 문제 설명
-
-### 문제 설명
 스마트폰 전화 키패드의 각 칸에 다음과 같이 숫자들이 적혀 있습니다.
 
 ![kakao_phone1.png](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/4b69a271-5f4a-4bf4-9ebf-6ebed5a02d8d/kakao_phone1.png)
