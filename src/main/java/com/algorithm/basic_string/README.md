@@ -15,8 +15,6 @@ a234 | false
 ## 정답 코드
 
 ```java
-package com.algorithm.basic_string;
-
 public class BasicString {
     public boolean solution(String s) {
         try {
