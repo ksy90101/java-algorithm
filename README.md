@@ -40,3 +40,4 @@
 - [\[프로그래머스\] x만큼 간격이 있는 n개의 숫자](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/n_numbers_spaced_by_x)
 - [\[프로그래머스\] 직사각형 별찍기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/rectangular_star)
 - [\[프로그래머스\] 예산](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/budget)
+- [\[프로그래머스\] 비밀지도](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/secret_map)
