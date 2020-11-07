@@ -15,7 +15,6 @@
 
 ## 정답 코드
 ```java
-
 public class ConvertStringToInteger {
     public static void main(String[] args) {
         ConvertStringToInteger convertStringToInteger = new ConvertStringToInteger();
