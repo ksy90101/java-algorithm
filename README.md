@@ -44,3 +44,4 @@
 - [\[프로그래머스\] 내적](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/dot_product)
 - [\[프로그래머스\] 실패율](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/failure_rate)
 - [\[프로그래머스\] 다트게임](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/dart_game)
+- [\[프로그래머스\] 124 나라의 숫자](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/number_of_124_countries)
