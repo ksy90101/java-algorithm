@@ -25,6 +25,7 @@ prices | return
 
 ```java
 import java.util.Arrays;
+import java.util.Stack;
 
 public class StockPrice {
     public static void main(final String[] args) {
@@ -32,23 +33,22 @@ public class StockPrice {
     }
 
     public static int[] solution(final int[] prices) {
-
+        final Stack<Integer> stack = new Stack<>();
         final int[] answer = new int[prices.length];
 
         for (int i = 0; i < prices.length; i++) {
-            int second = 0;
-            for (int j = i + 1; j < prices.length; j++) {
-                if (prices[i] <= prices[j]) {
-                    second++;
-                } else {
-                    answer[i] = second + 1;
-                    break;
-                }
-                if (j == prices.length - 1) {
-                    answer[i] = second;
-                }
+            if (!stack.isEmpty() && prices[stack.peek()] > prices[i]) {
+                final Integer index = stack.pop();
+                answer[index] = i - index;
             }
+            stack.push(i);
         }
+
+        while (!stack.isEmpty()) {
+            final Integer index = stack.pop();
+            answer[index] = prices.length - 1 - index;
+        }
+
         return answer;
     }
 }
