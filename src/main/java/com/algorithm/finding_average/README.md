@@ -16,8 +16,6 @@ arr | return
 ## 정답
 
 ```java
-package com.algorithm.finding_average;
-
 import java.util.Arrays;
 
 public class FindingAverage {
