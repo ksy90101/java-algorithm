@@ -56,3 +56,4 @@
 - [\[프로그래머스\] 가장 큰 수](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/largest_number)
 - [\[프로그래머스\] 더 맵게](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/more_spicy)
 - [\[프로그래머스\] 올바른 괄호](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/correct_bracket)
+- [\[프로그래머스\] 숫자의 표현](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/Representation_of_number)
