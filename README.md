@@ -55,3 +55,4 @@
 - [\[프로그래머스\] 문자열 압축](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/string_compression)
 - [\[프로그래머스\] 가장 큰 수](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/largest_number)
 - [\[프로그래머스\] 더 맵게](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/more_spicy)
+- [\[프로그래머스\] 올바른 괄호](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/correct_bracket)
