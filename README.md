@@ -58,3 +58,4 @@
 - [\[프로그래머스\] 올바른 괄호](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/correct_bracket)
 - [\[프로그래머스\] 숫자의 표현](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/Representation_of_number)
 - [\[프로그래머스\] 전화번호 목록](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/phone_number_list)
+- [\[프로그래머스\] 최댓값과 최솟값](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/max_number_and_min_number)
