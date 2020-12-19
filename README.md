@@ -62,3 +62,4 @@
 - [\[프로그래머스\] 최솟값 만들기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/making_min_number)
 - [\[프로그래머스\] 이진 변환 반복하기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/iterating_through_binary_transformation)
 - [\[프로그래머스\] 다음 큰 숫자](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/next_big_number)
+- [\[프로그래머스\] N개의 최소공배수](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/n_least_common_multiple)

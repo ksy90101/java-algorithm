@@ -14,13 +14,13 @@ public class GcdAndLcm {
     }
 
     public static int[] solution(final int n, final int m) {
-        final int gcm = getLcm(n, m);
-        final int lcm = (n * m) / gcm;
+        final int gcd = getGcd(n, m);
+        final int lcm = (n * m) / gcd;
 
-        return new int[] {gcm, lcm};
+        return new int[] {gcd, lcm};
     }
 
-    private static int getLcm(int n, int m) {
+    private static int getGcd(int n, int m) {
         while (n > 0) {
             final int temp = n;
             n = m % n;
