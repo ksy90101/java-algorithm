@@ -66,3 +66,4 @@
 - [\[프로그래머스\] H-Index](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/h_index)
 - [\[프로그래머스\] 큰 수 만들기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/making_big_number)
 - [\[프로그래머스\] 구명보트](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/lifeboat)
+- [\[프로그래머스\] 소수 찾기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/find_prime_numbers)
