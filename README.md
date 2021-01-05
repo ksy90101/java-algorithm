@@ -70,3 +70,4 @@
 - [\[프로그래머스\] 티켓 넘버](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/ticket_number)
 - [\[프로그래머스\] 위장](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/camouflage)
 - [\[프로그래머스\] 폰켓몬](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/phone_ketmon)
+- [\[프로그래머스\] 짝지어 제거하기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/matching_and_removing)
