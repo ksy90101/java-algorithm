@@ -77,3 +77,4 @@
 - [\[프로그래머스\] 카카오 프렌즈 컬러링북](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/kakao_friends_coloring_book)
 - [\[프로그래머스\] 괄호 변환](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/bracket_conversion)
 - [\[프로그래머스\] 카펫](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/carpet)
+- [\[프로그래머스\] 쿼드압축 후 개수 세기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/counting_after_quad_compression)
