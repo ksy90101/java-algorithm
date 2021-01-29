@@ -80,3 +80,4 @@
 - [\[프로그래머스\] 쿼드압축 후 개수 세기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/counting_after_quad_compression)
 - [\[프로그래머스\] 가장 큰 정사각형 찾기](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/find_the_largest_square)
 - [\[프로그래머스\] 매뉴 리뉴얼](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/menu_renewal)
+- [\[프로그래머스\] 예상 대진표](https://github.com/ksy90101/java-algorithm/tree/master/src/main/java/com/algorithm/expected_draw)
